@@ -21,7 +21,7 @@ qdrant_data/
 # Mac OS files
 uv.lock
 */__pycache__/
-
+opt/
 .DS_Store
 
 
