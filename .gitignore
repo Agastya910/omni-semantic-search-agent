@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+
+pycache/
+*.py[cod]
+*$py.class
+
+# Environments
+
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# Project Specific Data
+qdrant_data/
+data_source/
+qdrant_data/
+*.log
+
+# Mac OS files
+uv.lock
+*/__pycache__/
+
+.DS_Store
+
+
+# IDEs
+
+.vscode/
+.idea/
