@@ -65,6 +65,7 @@ This project was built from scratch to demonstrate how to tackle real-world indu
 ## 📺 Watch the Build
 
 I built this entire system live on YouTube, explaining every engineering decision from library selection to pipeline optimization.
+https://www.youtube.com/watch?v=AP_Wojhje40
 
 
 ## ⚖️ License
